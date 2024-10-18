@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+919841667119',
   address: 'Middle Badda, Dhaka, chennai - 1212 ',
   github: 'https://github.com/devito08/',
-  facebook: 'https://www.facebook.com/abusaid.riwyaz/',
+  facebook: 'https://www.instagram.com/danny_fc_player/',
   linkedIn: 'https://www.linkedin.com/in/Danny-Devito/',
   twitter: 'https://x.com/Danny_Devito_08',
   stackOverflow: 'https://stackoverflwow.com/users/16840768/abu-said',
